@@ -1,4 +1,4 @@
-Title: Release tracker
+Title: Release-v1.0
 
 Body:
 TL;DR: This branch includes planned version updates for our initial game launch.
